@@ -1,0 +1,138 @@
+{
+  "dataFormatVersion": "1.9.0",
+  "summary": {
+    "projectName": "cdk-workshop",
+    "summaryUrl": ".boost\\cdk-workshop.summary.boost-notebook",
+    "filesToAnalyze": 9,
+    "filesAnalyzed": 0,
+    "issues": [
+      "No summary file found at .boost\\cdk-workshop.summary.boost-notebook"
+    ]
+  },
+  "sectionSummary": {
+    "summary": {
+      "analysisType": "summary",
+      "status": "not-started",
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "totalCells": 0,
+      "filesAnalyzed": 0
+    }
+  },
+  "files": {
+    "package.json": {
+      "sourceRelFile": "package.json",
+      "notebookRelFile": ".boost/package.json.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "package-lock.json": {
+      "sourceRelFile": "package-lock.json",
+      "notebookRelFile": ".boost/package-lock.json.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "cdk.json": {
+      "sourceRelFile": "cdk.json",
+      "notebookRelFile": ".boost/cdk.json.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "README.md": {
+      "sourceRelFile": "README.md",
+      "notebookRelFile": ".boost/README.md.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "tsconfig.json": {
+      "sourceRelFile": "tsconfig.json",
+      "notebookRelFile": ".boost/tsconfig.json.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "lib\\cdk-workshop-stack.ts": {
+      "sourceRelFile": "lib\\cdk-workshop-stack.ts",
+      "notebookRelFile": ".boost/lib/cdk-workshop-stack.ts.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "test\\cdk-workshop.test.ts": {
+      "sourceRelFile": "test\\cdk-workshop.test.ts",
+      "notebookRelFile": ".boost/test/cdk-workshop.test.ts.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "bin\\cdk-workshop.ts": {
+      "sourceRelFile": "bin\\cdk-workshop.ts",
+      "notebookRelFile": ".boost/bin/cdk-workshop.ts.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    },
+    "jest.config.js": {
+      "sourceRelFile": "jest.config.js",
+      "notebookRelFile": ".boost/jest.config.js.boost-notebook",
+      "totalCells": 0,
+      "completedCells": 0,
+      "errorCells": 0,
+      "issueCells": 0,
+      "sections": {}
+    }
+  },
+  "account": {
+    "refreshed": false,
+    "enabled": false,
+    "status": "",
+    "trialRemaining": 0,
+    "usageThisMonth": 0,
+    "discountedUsage": 0,
+    "lastOperationCost": 0,
+    "batchOperationCost": 0,
+    "balanceDue": 0,
+    "couponType": "",
+    "org": "",
+    "owner": "",
+    "created": "",
+    "creditCardLinked": false
+  },
+  "uiState": {
+    "analysisState": "quiescent",
+    "activityBarState": {
+      "summaryViewState": {
+        "analysisMode": "analyze-all-mode",
+        "analysisTypesState": {
+          "security": true,
+          "compliance": true,
+          "documentation": true
+        }
+      }
+    }
+  },
+  "settings": {
+    "fileLimit": 100
+  }
+}
