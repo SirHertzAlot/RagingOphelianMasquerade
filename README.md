@@ -1,3 +1,6 @@
+# RagingOphelianMasquerade
+AWS - Just a sample project to explore CDK
+
 # Welcome to your CDK TypeScript project
 
 You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`CdkWorkshopStack`)
